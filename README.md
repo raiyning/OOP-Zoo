@@ -1,5 +1,6 @@
+
 # OOP-Zoo
-# OOP-Zoo
+=======
 ### Description
 1. Created an OOP application reiterating inheritance aspect of objects. 
 2. The Classes model a zoo with their respective animals and employees sharing attributes. 
@@ -13,3 +14,4 @@
 ### Learning points
 1. I have explored how to use modules to contain more classes
 2. Explored the way every class is connected with eachother in ruby notation 
+
