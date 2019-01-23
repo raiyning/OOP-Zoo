@@ -9,5 +9,5 @@
 3.How to use the super function
 
 ### Learning points
-1.I have explored how to use modules to contain more classes
-2.Explored the way every class is connected with eachother in ruby notation 
+1. I have explored how to use modules to contain more classes
+2. Explored the way every class is connected with eachother in ruby notation 
